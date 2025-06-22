@@ -12,7 +12,8 @@
     "vite": "^5.2.0"
   },
   "dependencies": {
-    "bootstrap": "^5.1.1"
+    "bootstrap": "^5.1.1",
+    "prompt-sync": "^4.2.0"
   },
   "engines": {
     "node": ">=20.0.0"
